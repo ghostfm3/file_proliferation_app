@@ -1,0 +1,11 @@
+C:\Users\PC_User\source\repos\file_proliferation\bin\Debug\file_proliferation.exe.config
+C:\Users\PC_User\source\repos\file_proliferation\bin\Debug\file_proliferation.exe
+C:\Users\PC_User\source\repos\file_proliferation\bin\Debug\file_proliferation.pdb
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.csproj.AssemblyReference.cache
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.Form1.resources
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.Properties.Resources.resources
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.csproj.GenerateResource.cache
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.csproj.CoreCompileInputs.cache
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.exe
+C:\Users\PC_User\source\repos\file_proliferation\obj\Debug\file_proliferation.pdb
